@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'views/signup_screen.dart';
 
+
+//Add comment
 void main() {
     WidgetsFlutterBinding.ensureInitialized(); 
   runApp(MyApp());
